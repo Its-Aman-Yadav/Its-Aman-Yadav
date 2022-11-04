@@ -23,10 +23,10 @@
    <img alt="Css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
       <img alt="Css" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-       <img alt="Css" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=blue"/>
+    <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=blue"/>
+       <img alt="Css" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=green"/>
           <img alt="Css" src="https://img.shields.io/badge/adobe%20-%231572B6.svg?&style=for-the-badge&logo=adobe&logoColor=blue"/>
-             <img alt="Css" src="https://img.shields.io/badge/%20-linux%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=red"/>
+             <img alt="Css" src="https://img.shields.io/badge/%20-linux%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
           <img alt="Css" src="https://img.shields.io/badge/canva%20-%231572B6.svg?&style=for-the-badge&logo=canva&logoColor=white"/>
              
 
