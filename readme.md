@@ -94,5 +94,5 @@
 
 
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Its-Aman-Yadav/Its-Aman-Yadav/blob/output/github-contribution-grid-snake.gif)
 
