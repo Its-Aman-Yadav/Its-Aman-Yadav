@@ -81,7 +81,7 @@
 
 
 ## 📊 GitHub Activity
-| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=cobalt) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=red)                                                                                                           |
+| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=dracula) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
