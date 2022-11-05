@@ -13,6 +13,8 @@
 
 ⚡ Favourite Anime Naruto 🐱‍👤
 
+<frame algin="right" src="https://giphy.com/embed/u5BzptR1OTZ04" width="480" height="345" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/popcorn-television-cartoon-u5BzptR1OTZ04">via GIPHY</a></p>
+
 <br>
 
 ## LANGUAGES & TOOLS
