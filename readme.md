@@ -73,11 +73,8 @@
             </a></div>
      
 # Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-aman-yadav&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-</table>
+<a href="https://github.com/its-Aman-Yadav/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Its-Aman-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 ## 📊 GitHub Activity
