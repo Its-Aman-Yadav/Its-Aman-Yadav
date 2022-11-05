@@ -1,9 +1,9 @@
 name: gitartwork from a contribution graph
- on: 
+on: 
    push:
    schedule:
      - cron: '* */24 * * *'
- jobs:
+jobs:
    build:
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
