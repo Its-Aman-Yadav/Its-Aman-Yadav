@@ -33,9 +33,6 @@
 
 <br>
 
-<h3 align="left">⭐ Connect with me on social media 📲 </h3>
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/Its-Aman-Yadav" target="_blank">
