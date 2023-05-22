@@ -2,7 +2,7 @@
 <h3 align="center">Youtuber | Coder | Cyber Security | Sports Person</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
-<img align="right" width="400" src="https://media0.giphy.com/media/u5BzptR1OTZ04/giphy.gif?cid=ecf05e47s7zsnk22eqlkeoyxxxze9xppo7tuc2h3v40l43mw&rid=giphy.gif&ct=g">
+<img align="right" width="400" src="https://animecorner.me/wp-content/uploads/2022/05/Spy-x-family-06-31.png">
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
