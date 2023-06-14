@@ -33,7 +33,7 @@
 <a href="https://twitter.com/its_aman_yadav" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="/https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
+<a href="https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/itsamanyadav18/" target="_blank">
