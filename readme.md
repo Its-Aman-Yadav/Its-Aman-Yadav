@@ -2,7 +2,7 @@
 <h3 align="center">Youtuber | Coder | Cyber Security | Sports Person</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
-<img align="right" width="400" src="http://www.gifbay.com/gif/so_i_guess_this_is_my_day_since_netflix_released_the_whole_season_of_arrested_development-50749/">
+<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
