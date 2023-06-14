@@ -27,25 +27,25 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Its-Aman-Yadav" target="_blank">
+<a href="https://github.com/Its-Aman-Yadav" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/its_aman_yadav" target="_blank">
+<a href="https://twitter.com/its_aman_yadav" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
+<a href="/https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ https://www.linkedin.com/in/itsamanyadav18/" target="_blank">
+<a href="https://www.linkedin.com/in/itsamanyadav18/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/its_aman_yadav" target="_blank">
+<a href="https://instagram.com/its_aman_yadav" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@itsamanyadav" target="_blank">
+<a href="https://medium.com/@itsamanyadav" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCL2AcsXxoZtg9ooILUJDKOg" target="_blank">
+<a href="https://www.youtube.com/channel/UCL2AcsXxoZtg9ooILUJDKOg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
