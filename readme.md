@@ -10,7 +10,9 @@
 
 📫 How to reach me itsamanyadav18@gmail.com
 
-📄 Know about my experiences https://www.linkedin.com/in/itsamanyadav18/
+📸 Portfolio -> https://bit.ly/3PfKTml
+
+📄 Know about my experiences -> https://bit.ly/3NbHbaJ
 
 ⚡ Favourite Anime Naruto 🐱‍👤
 
