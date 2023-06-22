@@ -54,7 +54,7 @@
 
 
 ## 📊 GitHub Activity
-| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
+| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&theme=highcontrast) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaS-21&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaS-21&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
