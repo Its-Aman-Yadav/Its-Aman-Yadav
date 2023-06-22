@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, It's Aditya Srivastav</h1>
-<h3 align="center">Youtuber | Coder | Cyber Security | Sports Person</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Aditya Srivastav</h1>
+<h3 align="center"> Coder | Web Dev | Frontend</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=AdityaS-21&color=0e75b6)
 <img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -56,7 +56,7 @@
 ## 📊 GitHub Activity
 | ![Aman github stats](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaS-21&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaS-21&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AdityaS-21&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
 
 ## 📚 My Education Status
