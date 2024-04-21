@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, Its Aman Yadav  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">Frontend | Technical Writer | Cricket</h3>
+<h3 align="center">Frontend | DSA | Technical Writer | Cricket</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 <img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
