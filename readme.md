@@ -8,9 +8,9 @@
 
 💬 Ask me about Cyber Security, Networking, Data Structures and Content Creation
 
-📫 How to reach me itsamanyadav18@gmail.com
+📫 Reach me out here - itsamanyadav18@gmail.com
 
-📸 Portfolio -> https://bit.ly/3PfKTml
+📸 Portfolio -> https://aman-yadav-portfolio.vercel.app/
 
 📄 Know about my experiences -> https://bit.ly/3NbHbaJ
 
