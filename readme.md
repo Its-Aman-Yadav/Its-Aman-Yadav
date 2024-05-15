@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
-💬 Ask me about Cyber Security, Networking, Data Structures and Content Creation
+💬 Ask me about NextJS, ReactJS, and Databases
 
 📫 Reach me out here - itsamanyadav18@gmail.com
 
