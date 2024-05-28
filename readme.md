@@ -10,11 +10,11 @@
 
 📫 Reach me out here - itsamanyadav18@gmail.com
 
-📸 Portfolio -> https://aman-yadav-portfolio.vercel.app/
+📸 Portfolio - https://aman-yadav-portfolio.vercel.app/
 
-📄 Know about my experiences -> https://bit.ly/3NbHbaJ
+📄 My Blogs - https://bit.ly/3NbHbaJ
 
-⚡ Favourite Anime Naruto 🐱‍👤
+Hardwork always payoff
 
 <br>
 
