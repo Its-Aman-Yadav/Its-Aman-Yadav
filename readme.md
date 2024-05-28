@@ -78,7 +78,7 @@
 ## 📚 My Education Status
 
 
-<h4>⌚ B.Tech (AI/ML) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>⌚ Bachelor of Technology, Specialization in Artificial Intelligence and Machine Learning, KCCITM"25 </h4>
 <h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
 
 
