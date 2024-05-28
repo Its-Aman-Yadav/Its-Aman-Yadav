@@ -4,12 +4,12 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 <img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-Highly creative Full Stack Developer with a strong foundation in front-end technologies. Adept at building
-user-centric interfaces and full-stack applications. 
-<br> Passionate about fostering vibrant online communities,
-bringing ideas to life with code and design, and tackling challenges with an innovative mindset. Highly
-adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative
-development environment.
+<ul>
+  <li>Highly creative Full Stack Developer with a strong foundation in front-end technologies.</li>
+  <li>Adept at building user-centric interfaces and full-stack applications.</li>
+  <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
+  <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
+</ul>
 
 
 <br>
