@@ -20,8 +20,6 @@ development environment.
 <p><b>Databases</b> - MongoDB, MySQL, PostgreSQL, Firebase</p>
 <p><b>Other</b> - Docker, NodeJS, Linux, Github, Version Control ( Git ), EJS, Adobe Creative</p>
 
-
-
 <br>
 
 ## Connect with me  
