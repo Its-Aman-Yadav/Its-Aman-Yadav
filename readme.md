@@ -15,10 +15,11 @@ development environment.
 <br>
 
 ## Skills
-Languages - C, CPP, Python, Javascript, TypeScript, PHP <br>
-Frameworks and Libraries - NextJS, React JS, Express JS, Tailwind CSS, Bootstrap, JQuery<br>
-Databases - MongoDB, MySQL, PostgreSQL, Firebase<br>
-Other - Docker, NodeJS, Linux, Github, Version Control ( Git ), EJS, Adobe Creative<br>
+<p><b>Languages</b> - C, CPP, Python, Javascript, TypeScript, PHP</p>
+<p><b>Frameworks</b> and Libraries - NextJS, React JS, Express JS, Tailwind CSS, Bootstrap, JQuery</p>
+<p><b>Databases</b> - MongoDB, MySQL, PostgreSQL, Firebase</p>
+<p><b>Other</b> - Docker, NodeJS, Linux, Github, Version Control ( Git ), EJS, Adobe Creative</p>
+
 
 
 <br>
