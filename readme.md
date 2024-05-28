@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, Its Aman Yadav  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"> Hey, Its Aman Yadav /></h1> <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"-->
 <h3 align="center"> Full Stack Developer | Technical Writer | Open Source Contributor</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
