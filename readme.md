@@ -14,12 +14,12 @@ development environment.
 <br>
 <br>
 
-## LANGUAGES & TOOLS
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,babel,bash,blender,bootstrap,c,cpp,codepen,css,discord,express,heroku,html,java,js,jquery,linux,mongodb,mysql,netlify,nodejs,ps,postman,pr,py,react,vercel,vscode,wordpress" />
-  </a>
-</p>
+## Skills
+Languages - C, CPP, Python, Javascript, TypeScript, PHP
+Frameworks and Libraries - NextJS, React JS, Express JS, Tailwind CSS, Bootstrap, JQuery
+Databases - MongoDB, MySQL, PostgreSQL, Firebase
+Other - Docker, NodeJS, Linux, Github, Version Control ( Git ), EJS, Adobe Creative
+
 
 <br>
 
