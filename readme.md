@@ -10,7 +10,7 @@
   <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
   <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
   <br>
-  <p> Resume - https://bit.ly/4bWYtU0 </p>
+  <p> Resume - https://bit.ly/4ffwm4z </p>
 </ul>
 
 
