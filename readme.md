@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack Developer | Technical Writer | Open Source Contributor</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
-<img align="right" width="400" src="https://media1.tenor.com/m/YbopFZINhUkAAAAC/madara-uchiha-madara.gif">
+<img align="right" width="400" height="600" src="https://media1.tenor.com/m/YbopFZINhUkAAAAC/madara-uchiha-madara.gif">
 
 <ul>
   <li>Highly creative Full Stack Developer with a strong foundation in front-end technologies.</li>
