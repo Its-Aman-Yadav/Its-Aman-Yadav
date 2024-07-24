@@ -11,7 +11,7 @@
   <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
   <br>
   Fun fact - Sasuke and Hinatas first convo together happens in Boruto
-           - Naruto was supposed to be a chef but later changed to Hokage
+    <br>       - Naruto was supposed to be a chef but later changed to Hokage
   <br>
   <br>
   <p> Resume - https://bit.ly/4ffwm4z </p>
