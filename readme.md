@@ -12,6 +12,7 @@
   <br>
   Fun fact - Sasuke and Hinatas first convo together happens in Boruto
   <br>
+  <br>
   <p> Resume - https://bit.ly/4ffwm4z </p>
 </ul>
 
