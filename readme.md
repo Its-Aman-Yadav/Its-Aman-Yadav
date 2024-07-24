@@ -9,6 +9,8 @@
   <li>Adept at building user-centric interfaces and full-stack applications.</li>
   <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
   <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
+
+  Fun fact - Sasuke and Hinatas first convo together happens in Boruto
   <br>
   <p> Resume - https://bit.ly/4ffwm4z </p>
 </ul>
