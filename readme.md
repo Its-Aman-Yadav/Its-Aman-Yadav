@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight: bold;">Aman Yadav</h1> <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"-->
-<h3 align="center">frontend focused full stack developer</h3>
+<h3 align="center">Frontend focused Full Stack Developer</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
 <!-- <img align="right" width="350" height="300" src="https://media1.tenor.com/m/YbopFZINhUkAAAAC/madara-uchiha-madara.gif" style="margin-top:10px;">  -->
