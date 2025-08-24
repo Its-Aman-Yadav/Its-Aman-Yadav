@@ -5,14 +5,14 @@
 <!-- <img align="right" width="350" height="300" src="https://media1.tenor.com/m/YbopFZINhUkAAAAC/madara-uchiha-madara.gif" style="margin-top:10px;">  -->
 
 <ul>
-  <li>Highly creative Full Stack Developer with a strong foundation in front-end technologies.</li>
-  <li>Proven problem-solver with 550+ LeetCode questions, 1675 rating, and strong competitive programming achievements.</li>
-  <li>Full-stack expertise in Next.js, React, TypeScript, Docker, Nginx, AWS, and databases like PostgreSQL, Firebase, and Supabase.</li>
-  <li>Fast learner who has delivered impactful projects including AI Assist, Algo Visualizer, and CMS migrations with measurable results.</li>
-  <li>Leadership experience as GDSC Lead and GSSoC Project Manager, mentoring peers and managing successful collaborations.</li>
-  <li>Innovative developer focused on UI/UX, performance optimization, and building scalable, user-centric applications.</li>
-  <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
-  <li>Highly adaptable and eager to embrace new technologies in collaborative environments.</li>
+<ul>
+<li>Built an AI-powered recruitment platform with OpenAI SDK, Google Cloud Functions, and Firebase, automating resume screening and interview evaluation.</li>
+  <li>Developed a scalable LMS with live sessions, adaptive assessments, and AI-personalized content generation.</li>
+  <li>Designed secure infra using Firebase Firestore, Auth, Storage; deployed on Vercel with CI/CD, Razorpay payments, and n8n automation for ops.</li>
+  <li>Migrated WordPress to Next.js with 40% faster load time; integrated Strapi CMS, Docker, Nginx, and deployed on AWS Lightsail (99.9% uptime).</li>
+  <li>Skilled in Next.js, React, TypeScript, Node.js, Docker, Nginx, Firebase, PostgreSQL, Supabase, Tailwind CSS, and automation tooling.</li>
+</ul>
+
   <br>
   <p> Resume - https://drive.google.com/file/d/1eyQiwhANOL0z4bdTyJwua4kFdsEWyp8X/view?usp=sharing</p>
 </ul>
