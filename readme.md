@@ -6,17 +6,17 @@
 
 <ul>
   <li>Highly creative Full Stack Developer with a strong foundation in front-end technologies.</li>
-  <li>Adept at building user-centric interfaces and full-stack applications.</li>
+  <li>Proven problem-solver with 550+ LeetCode questions, 1675 rating, and strong competitive programming achievements.</li>
+  <li>Full-stack expertise in Next.js, React, TypeScript, Docker, Nginx, AWS, and databases like PostgreSQL, Firebase, and Supabase.</li>
+  <li>Fast learner who has delivered impactful projects including AI Assist, Algo Visualizer, and CMS migrations with measurable results.</li>
+  <li>Leadership experience as GDSC Lead and GSSoC Project Manager, mentoring peers and managing successful collaborations.</li>
+  <li>Innovative developer focused on UI/UX, performance optimization, and building scalable, user-centric applications.</li>
   <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
-  <li>Highly adaptable and a fast learner, eager to embrace new technologies and contribute to a collaborative development environment.</li>
-  <br>
-  Fun fact - 
-  Sasuke and Hinatas first convo together happens in Boruto
-          <br>       - Naruto was supposed to be a chef but later changed to Hokage
-  <br>
+  <li>Highly adaptable and eager to embrace new technologies in collaborative environments.</li>
   <br>
   <p> Resume - https://bit.ly/4ffwm4z </p>
 </ul>
+
 
 
 <br>
