@@ -23,10 +23,11 @@
 <br>
 
 ## Skills
-<p><b>Languages</b> - C, CPP, Python, Javascript, TypeScript, PHP</p>
-<p><b>Frameworks</b> and Libraries - NextJS, React JS, Express JS, Tailwind CSS, Bootstrap, JQuery</p>
-<p><b>Databases</b> - MongoDB, MySQL, PostgreSQL, Firebase</p>
-<p><b>Other</b> - Docker, NodeJS, Linux, Github, Version Control ( Git ), EJS, Adobe Creative</p>
+<p><b>Languages</b> – C, C++, Python, JavaScript, TypeScript, PHP</p>
+<p><b>Frameworks</b> and Libraries – Next.js, React.js, Express.js, Tailwind CSS, Bootstrap, jQuery, shadcn/ui</p>
+<p><b>Databases</b> – MongoDB, MySQL, PostgreSQL, Firebase, Supabase</p>
+<p><b>Other</b> – Docker, Node.js, Nginx, Linux, AWS Lightsail, Git & GitHub, EJS, Adobe Creative Suite, RESTful APIs, Unit Testing (Jest)</p>
+
 
 <br>
 
