@@ -14,7 +14,7 @@
   <li>Passionate about fostering vibrant online communities, bringing ideas to life with code and design, and tackling challenges with an innovative mindset.</li>
   <li>Highly adaptable and eager to embrace new technologies in collaborative environments.</li>
   <br>
-  <p> Resume - https://bit.ly/4ffwm4z </p>
+  <p> Resume - [https://bit.ly/4ffwm4z](https://drive.google.com/file/d/1eyQiwhANOL0z4bdTyJwua4kFdsEWyp8X/view?usp=sharing) </p>
 </ul>
 
 
