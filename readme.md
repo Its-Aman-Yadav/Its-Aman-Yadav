@@ -14,7 +14,7 @@
 </ul>
 
   <br>
-  <p> Resume - https://drive.google.com/file/d/1eyQiwhANOL0z4bdTyJwua4kFdsEWyp8X/view?usp=sharing</p>
+  <p> Portfolio - https://portfolio-of-aman.vercel.app/</p>
 </ul>
 
 
