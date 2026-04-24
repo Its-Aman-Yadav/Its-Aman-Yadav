@@ -80,26 +80,12 @@ I'm a full stack developer who takes products from zero to production — handli
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-| Stats | Streak |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast&hide_border=true) |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=highcontrast&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Year |
 |---|---|---|
 | B.Tech — AI & Machine Learning | KCCITM | 2025 |
-| Class XII | Nilgiri Hills Public School, Noida | — |
+| Class XII | Nilgiri Hills Public School, Noida | 2021 |
 
 ---
 
