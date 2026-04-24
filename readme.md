@@ -1,92 +1,111 @@
-<h1 align="center" style="font-weight: bold;">Aman Yadav</h1> <!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"-->
-<h3 align="center">Frontend focused Full Stack Developer | Agentic AI Expert</h3>
-
-![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
-<!-- <img align="right" width="350" height="300" src="https://media1.tenor.com/m/YbopFZINhUkAAAAC/madara-uchiha-madara.gif" style="margin-top:10px;">  -->
-
-<ul>
-<ul>
-<li>Built an AI-powered recruitment platform with OpenAI SDK, Google Cloud Functions, and Firebase, automating resume screening and interview evaluation.</li>
-  <li>Developed a scalable LMS with live sessions, adaptive assessments, and AI-personalized content generation.</li>
-  <li>Designed secure infra using Firebase Firestore, Auth, Storage; deployed on Vercel with CI/CD, Razorpay payments, and n8n automation for ops.</li>
-  <li>Migrated WordPress to Next.js with 40% faster load time; integrated Strapi CMS, Docker, Nginx, and deployed on AWS Lightsail (99.9% uptime).</li>
-  <li>Skilled in Next.js, React, TypeScript, Node.js, Docker, Nginx, Firebase, PostgreSQL, Supabase, Tailwind CSS, and automation tooling.</li>
-</ul>
-
-  <br>
-  <p> Portfolio - https://portfolio-of-aman.vercel.app/</p>
-</ul>
-
-
-
-<br>
-<br>
-
-## Skills
-<p><b>Languages</b> – C, C++, Python, JavaScript, TypeScript, PHP</p>
-<p><b>Frameworks</b> and Libraries – Next.js, React.js, Express.js, Tailwind CSS, Bootstrap, jQuery, shadcn/ui</p>
-<p><b>Databases</b> – MongoDB, MySQL, PostgreSQL, Firebase, Supabase</p>
-<p><b>Other</b> – Docker, Node.js, Nginx, Linux, AWS Lightsail, Git & GitHub, EJS, Adobe Creative Suite, RESTful APIs, Unit Testing (Jest)</p>
-
-
-<br>
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Its-Aman-Yadav" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/its_aman_yadav" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/17930806/mr-aman-yadav" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/itsamanyadav18/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/its_aman_yadav" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@itsamanyadav" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCL2AcsXxoZtg9ooILUJDKOg" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+
+# Aman Yadav
+
+**Frontend-Focused Full Stack Developer · Agentic AI Expert**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-of-aman.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsamanyadav18/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Its-Aman-Yadav)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/its_aman_yadav)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@itsamanyadav)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17930806/mr-aman-yadav)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCL2AcsXxoZtg9ooILUJDKOg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6&style=flat-square)
+
+</div>
+
+---
+
+## About Me
+
+I'm a full stack developer who takes products from zero to production — handling system design, architecture decisions, frontend, backend, DevOps, and AI integration. I've led end-to-end development of AI-powered platforms with real users, focusing on performance, automation, and scalable infrastructure.
+
+---
+
+## 🚀 End-to-End Product Ownership
+
+> Products I've independently architected, built, and shipped — from first line of code to production deployment.
+
+### 🤖 AI Recruitment Platform
+
+| Phase | What I Did |
+|---|---|
+| **📐 Architecture** | Designed microservice flow with OpenAI SDK, Cloud Functions, and Firebase |
+| **⚙️ Backend** | Built serverless pipelines for resume parsing and AI-based candidate scoring |
+| **🎨 Frontend** | Developed recruiter and candidate dashboards in Next.js + Tailwind CSS |
+| **🔒 Auth & Security** | Integrated Firebase Auth with role-based access control |
+| **🚢 Deployment** | CI/CD on Vercel with automated staging and production environments |
+| **📊 Outcome** | Fully automated resume screening and interview evaluation, end-to-end |
+
+---
+
+### 📚 Learning Management System (LMS)
+
+| Phase | What I Did |
+|---|---|
+| **📐 Architecture** | Planned scalable multi-tenant LMS with live sessions and assessment engine |
+| **⚙️ Backend** | Built adaptive assessment logic and AI-personalized content generation APIs |
+| **🎨 Frontend** | Created learner and instructor portals with real-time session support |
+| **💳 Payments** | Integrated Razorpay for subscriptions and one-time course purchases |
+| **🤖 Automation** | Set up n8n workflows for notifications, enrollment triggers, and ops |
+| **🚢 Deployment** | Deployed on Vercel with CI/CD and Firebase Storage for course media |
+
+---
+
+### ⚡ WordPress → Next.js Migration
+
+| Phase | What I Did |
+|---|---|
+| **📐 Planning** | Audited existing WP site and mapped content to Strapi CMS schema |
+| **⚙️ Backend** | Configured Strapi CMS, RESTful content APIs, and Docker containerization |
+| **🎨 Frontend** | Rebuilt entire frontend in Next.js with SSG/SSR for SEO performance |
+| **🌐 Infrastructure** | Deployed on AWS Lightsail with Nginx reverse proxy and SSL |
+| **📊 Outcome** | **40% faster load time**, 99.9% uptime, improved Lighthouse scores |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | `JavaScript` `TypeScript` `Python` `C++` `PHP` |
+| **Frontend** | `Next.js` `React.js` `Tailwind CSS` `shadcn/ui` `Bootstrap` `jQuery` |
+| **Backend** | `Node.js` `Express.js` `RESTful APIs` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Firebase Firestore` `Supabase` |
+| **AI & Automation** | `OpenAI SDK` `Google Cloud Functions` `n8n` |
+| **DevOps & Infra** | `Docker` `Nginx` `AWS Lightsail` `Vercel` `Linux` `Git & GitHub` |
+| **Testing & Tools** | `Jest` `Adobe Creative Suite` `Razorpay` |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-            <a href="https://paypal.me/@itsamanyadav" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/itsamanyadv" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-     
 
+| Stats | Streak |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast&hide_border=true) |
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=highcontrast&layout=compact&hide_border=true)
 
-## 📊 GitHub Activity
-| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
+</div>
 
+---
 
-## 📚 My Education Status
+## 🎓 Education
 
+| Degree | Institution | Year |
+|---|---|---|
+| B.Tech — AI & Machine Learning | KCCITM | 2025 |
+| Class XII | Nilgiri Hills Public School, Noida | — |
 
-<h4>⌚ Bachelor of Technology, Specialization in Artificial Intelligence and Machine Learning, KCCITM"25 </h4>
-<h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
+---
 
+## ☕ Support My Work
 
-<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+If you find my projects useful, consider buying me a coffee!
 
-
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/itsamanyadv)
+[![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/@itsamanyadav)
